@@ -4,8 +4,11 @@ import FormHandling from './components/formHandling/FormHandling'
 
 function App() {
   return (
-    <div><Students/>
-    <FormHandling/>
+    <div>
+      
+      <FormHandling/>
+      <Students/>
+    
     </div>
   )
 }
