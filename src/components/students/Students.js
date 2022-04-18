@@ -38,8 +38,8 @@ export default function Students() {
       </div>
       <div className="tableContent">
 
-        <table>
-          <tr>
+        <table id='wholeTable'>
+          <tr id='tableContent'>
             <th>#</th>
             <th>Student Name</th>
             <th>Batch No</th>
